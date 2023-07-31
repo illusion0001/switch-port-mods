@@ -1,4 +1,4 @@
-If there's no mod for your region just go here:
+If there's no 60fps mod for your region just go here:
 
 - [Asia](https://tinfoil.io/Title/0100F4401940A000)
 - [EU](https://tinfoil.io/Title/01004800197F0000)
