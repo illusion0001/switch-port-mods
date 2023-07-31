@@ -16,4 +16,4 @@ Resolutions:
 - 1440p
 - 4K
 
-DISCLAIMER: I haven' tested all resolutions. If there are any errors, please let me know it.
+DISCLAIMER: I haven't tested all resolutions. If there are any errors, please let me know it.
