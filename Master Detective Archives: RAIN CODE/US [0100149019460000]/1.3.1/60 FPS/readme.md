@@ -2,7 +2,7 @@
 
 Instructions:
 
-Download from [here](https://github.com/StevensND/switch-port-mods/blob/main/Master%20Detective%20Archives%3A%20RAIN%20CODE/EU%20%5B01004800197F0000%5D/1.3.1/60%20FPS/1.3.1.pchtxt) 
+Download from [here](https://github.com/StevensND/switch-port-mods/blob/main/Master%20Detective%20Archives%3A%20RAIN%20CODE/US%20%5B0100149019460000%5D/1.3.1/60%20FPS/1.3.1.pchtxt) 
 
 Click on `Download Raw File` (Arrow icon) and place it into your Yuzu/Ryujinx Mod Directory folder.
 
