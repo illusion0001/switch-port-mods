@@ -11,6 +11,14 @@
 0006B330 21008052
 @stop
 
+// unlock fps
+
+@enabled
+0006b330 01008052
+01a30fd4 1f2003d5
+0000e070 007d8052
+@stop
+
 @StevensND
 https://github.com/StevensND
 https://www.reddit.com/user/StevenssND
