@@ -1,0 +1,17 @@
+@nsobid-9515EF1F79EF3CB800BD85E5D3DE0D98F39381F3
+
+# Red Dead Redemption [01007820196A6000] v1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+0006B330 21008052
+@stop
+
+@StevensND
+https://github.com/StevensND
+https://www.reddit.com/user/StevenssND
+https://gbatemp.net/members/stevensnd.438828/
